@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+src/main.py
+src/kkpaquete_Jorge/__init__.py
+src/kkpaquete_Jorge/resta.py
+src/kkpaquete_Jorge/suma.py
+src/kkpaquete_Jorge.egg-info/PKG-INFO
+src/kkpaquete_Jorge.egg-info/SOURCES.txt
+src/kkpaquete_Jorge.egg-info/dependency_links.txt
+src/kkpaquete_Jorge.egg-info/top_level.txt
+src/kkpaquete_Jorge/extra/__init__.py
+src/kkpaquete_Jorge/extra/otros.py
